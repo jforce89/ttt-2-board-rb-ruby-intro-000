@@ -1,1 +1,1 @@
-# Define the variable board below.
+ne the variable board below.
